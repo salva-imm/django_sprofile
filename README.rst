@@ -34,3 +34,8 @@ Quick start
         'output': ['console','file'],             
         'file_location': 'profiling_results.txt'
     }
+
+TODO
+----
+1.better logfile
+2.dashboard
