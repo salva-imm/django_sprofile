@@ -2,7 +2,7 @@
 Django Sprofile
 =====
 
-Based on django-profile-middleware
+Based on `django-profile-middleware https://github.com/lavi06/django-profile-middleware`_
 
 Compatible with Django 1.11 and later
 
