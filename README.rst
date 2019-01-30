@@ -22,7 +22,7 @@ Quick start
 
     MIDDLEWARE = [
         ...
-        'django_sprofile.middleware.ProfilerMiddleware',
+        'django_sprofile.middleware.sProfilerMiddleware',
     ]
 
 3. Set sProfile Config(PROFILER) to your setting:
