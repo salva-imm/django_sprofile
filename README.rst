@@ -5,6 +5,9 @@ Django Sprofile
 Based on `django-profile-middleware
 <https://github.com/lavi06/django-profile-middleware>`_.
 
+this is a package that can profile your requests and functions/lines ,, create on top of `cProfile
+<https://docs.python.org/3.6/library/profile.html>`_.
+
 Compatible with Django 1.11 and later
 
 Python 3.x
