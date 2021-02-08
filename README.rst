@@ -44,3 +44,5 @@ TODO
 1. better logfile
 
 2. dashboard
+
+3. testing with django 2.2
